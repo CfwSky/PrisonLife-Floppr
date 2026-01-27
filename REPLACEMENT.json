@@ -1,13 +1,10 @@
 {
-  "Sounds": {
-    "Gun Sounds": {
-      "Pistol": "117618294841332",
-      "Taser": "81011418451406",
-      "Shotgun": "107497431930611",
-      "M4A1": "92408151236952",
-      "AK47": "125059546739271",
-      "Punch": "139279655000459",
-      "Car": "84434500562001" 
-    }
-  }
+  "ak47": "https://raw.githubusercontent.com/CfwSky/PrisonLife-Floppr/main/assets/sounds/62cbd5f039cbe226197062ba15306d13.ogg",
+  "punch": "https://raw.githubusercontent.com/CfwSky/PrisonLife-Floppr/main/assets/sounds/91e23f39d9484e40dbbb325bd99fe6cf.ogg",
+  "shotgun": "https://raw.githubusercontent.com/CfwSky/PrisonLife-Floppr/main/assets/sounds/e01caee97b3f9969327e9e024abddc31.ogg",
+  "M4A1": "https://raw.githubusercontent.com/CfwSky/PrisonLife-Floppr/main/assets/sounds/M4FireOLD.ogg",
+  "pistols": "https://raw.githubusercontent.com/CfwSky/PrisonLife-Floppr/main/assets/sounds/5cce3c40ccf3032d537d0d016f579792.ogg",
+  "car": "https://raw.githubusercontent.com/CfwSky/PrisonLife-Floppr/main/assets/sounds/b882308684db103627681d3e19e24ccd.ogg",
+  "taser": "https://raw.githubusercontent.com/CfwSky/PrisonLife-Floppr/main/assets/sounds/76c84ac0c1ee4474f5af9b130e388a72.ogg",
+  "sniper": "https://raw.githubusercontent.com/CfwSky/PrisonLife-Floppr/main/assets/sounds/Sniper.ogg"
 }
