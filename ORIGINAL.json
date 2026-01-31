@@ -1,10 +1,28 @@
 {
-  "ak47": "2934888736",
-  "punch": "2935002319",
-  "shotgun": "2934889760",
-  "M4A1": "2934888536",
-  "pistols": "2934888024",
-  "car": "2934935407",
-  "taser": "2934889941",
-  "sniper": "84419861201505"
+  "sounds": {
+    "ak47": "2934888736",
+    "punch": "2935002319",
+    "shotgun": "2934889760",
+    "M4A1": "2934888536",
+    "pistols": "2934888024",
+    "car": "2934935407",
+    "taser": "2934889941",
+    "sniper": "84419861201505",
+    "FAL": "81631476486345",
+    "Revolver": "10209803",
+    "MP5": "7698730413"
+  },
+  "textures": {
+    "Crosshair": "98794608762931",
+    "Guard room wood floor": "277500457",
+    "Main prison floor": "277483742"
+  },
+  "skyboxes": {
+    "AtmosphericClouds4_DN": "150553062",
+    "AtmosphericClouds4_LT": "150553096",
+    "AtmosphericClouds4_RT": "150553119",
+    "AtmosphericClouds4_FT": "150553079",
+    "AtmosphericClouds4_UP": "150553131",
+    "AtmosphericClouds4_BK": "150553049"
+  }
 }
