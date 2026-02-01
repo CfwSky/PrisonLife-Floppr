@@ -12,9 +12,28 @@
     "Revolver": "10209803",
     "MP5": "7698730413"
   },
+  "Reload sounds": {
+    "Shotgun Reload": "2934888952",
+    "Shotgun Pump": "255061173",
+    "Generic Reload": "2934887229",
+    "Taser Reload": "82273261",
+    "Revolver Reload": "104727715547917",
+    "Sniper Reload": "73708758290921"
+  },
+  "Misc": {
+    "Door beep": "135232042",
+    "Hammer Smash 1": "21433696",
+    "Hammer Smash 2": "21433711"
+  },
   "textures": {
     "Crosshair": "98794608762931",
     "Guard room wood floor": "277500457",
+    "Police shirt": "106725875262965",
+    "Police pants": "86225292009619",
+    "Riot shirt": "101663889915762",
+    "Riot pants": "121354863881202",
+    "Prisoner shirt": "106405750",
+    "Prisoner pants": "106405765",
     "Main prison floor": "277483742"
   },
   "skyboxes": {
