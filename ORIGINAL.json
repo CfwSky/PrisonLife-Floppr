@@ -43,5 +43,34 @@
     "AtmosphericClouds4_FT": "150553079",
     "AtmosphericClouds4_UP": "150553131",
     "AtmosphericClouds4_BK": "150553049"
+  },
+  "meshes": {
+    "Weapons": {
+      "Revolver": "117805356475599",
+      "MP5": "118007003118471",
+      "M9": "110631186758351",
+      "Taser": "82337638",
+      "M4A1": "89309227654647",
+      "Shotgun": "85472077740638",
+      "Shotgun Part": "863984521",
+      "AK47": "71100855161498",
+      "C4": "124812262169382",
+      "Display C4": "88309652557199"
+    },
+    "Equipment": {
+      "Riot Shield": "82265009",
+      "Handcuffs": "88046657",
+      "Sniper Vest": "108788572",
+      "Mafia Vest": "95106207295270"
+    },
+    "Clothing": {
+      "Police Cap": "1028788",
+      "SWAT Hat": "25648271",
+      "SWAT Mask": "1286427"
+    },
+    "Food": {
+      "Soda Can": "10470609",
+      "Chips": "19106014"
+    }
   }
 }
