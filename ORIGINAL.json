@@ -25,7 +25,7 @@
     "Hammer Smash 1": "21433696",
     "Hammer Smash 2": "21433711"
   },
- "textures": {
+  "textures": {
     "UI and Icons": {
       "Logo": "468611172",
       "Crosshair": "98794608762931",
@@ -44,7 +44,8 @@
     "Environment and Floors": {
       "Main prison floor": "277483742",
       "Guard room wood floor": "277500457"
-    },
+    }
+  },
   "skyboxes": {
     "AtmosphericClouds4_DN": "150553062",
     "AtmosphericClouds4_LT": "150553096",
@@ -80,7 +81,6 @@
     "Food": {
       "Soda Can": "10470609",
       "Chips": "19106014"
-      }
     }
   }
 }
