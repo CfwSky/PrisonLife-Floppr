@@ -25,17 +25,26 @@
     "Hammer Smash 1": "21433696",
     "Hammer Smash 2": "21433711"
   },
-  "textures": {
-    "Crosshair": "98794608762931",
-    "Guard room wood floor": "277500457",
-    "Police shirt": "106725875262965",
-    "Police pants": "86225292009619",
-    "Riot shirt": "101663889915762",
-    "Riot pants": "121354863881202",
-    "Prisoner shirt": "106405750",
-    "Prisoner pants": "106405765",
-    "Main prison floor": "277483742"
-  },
+ "textures": {
+    "UI and Icons": {
+      "Logo": "468611172",
+      "Crosshair": "98794608762931",
+      "Gun icon atlas": "93481383611512",
+      "prisoner icon": "99519095539896",
+      "Cop icon": "124901910829010"
+    },
+    "Clothing and Uniforms": {
+      "Police shirt": "106725875262965",
+      "Police pants": "86225292009619",
+      "Riot shirt": "101663889915762",
+      "Riot pants": "121354863881202",
+      "Prisoner shirt": "106405750",
+      "Prisoner pants": "106405765"
+    },
+    "Environment and Floors": {
+      "Main prison floor": "277483742",
+      "Guard room wood floor": "277500457"
+    },
   "skyboxes": {
     "AtmosphericClouds4_DN": "150553062",
     "AtmosphericClouds4_LT": "150553096",
@@ -71,6 +80,7 @@
     "Food": {
       "Soda Can": "10470609",
       "Chips": "19106014"
+      }
     }
   }
 }
