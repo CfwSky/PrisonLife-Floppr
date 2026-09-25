@@ -44,6 +44,17 @@
     "Environment and Floors": {
       "Main prison floor": "277483742",
       "Guard room wood floor": "277500457"
+    },
+    "Weapon Textures": {
+      "Revolver": "106990054205648",
+      "M4A1": "84696601038104",
+      "Shotgun": "134695297080980",
+      "Taser": "82337709",
+      "Riot Shield": "82265116",
+      "MP5": "74453061964221",
+      "C4": "87643737848206",
+      "AK47": "82603222461633",
+      "M9": "100649571955287"
     }
   },
   "skyboxes": {
